@@ -1,2 +1,2 @@
 # Snake
-Snake Game
+A recreation of the classic game, Snake
